@@ -1,0 +1,15 @@
+c:\Users\henrique.evangelista\Documents\Henrique\projetos\AED\competicao\bin\Debug\net8.0\competicao.exe
+c:\Users\henrique.evangelista\Documents\Henrique\projetos\AED\competicao\bin\Debug\net8.0\competicao.deps.json
+c:\Users\henrique.evangelista\Documents\Henrique\projetos\AED\competicao\bin\Debug\net8.0\competicao.runtimeconfig.json
+c:\Users\henrique.evangelista\Documents\Henrique\projetos\AED\competicao\bin\Debug\net8.0\competicao.dll
+c:\Users\henrique.evangelista\Documents\Henrique\projetos\AED\competicao\bin\Debug\net8.0\competicao.pdb
+c:\Users\henrique.evangelista\Documents\Henrique\projetos\AED\competicao\obj\Debug\net8.0\competicao.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\henrique.evangelista\Documents\Henrique\projetos\AED\competicao\obj\Debug\net8.0\competicao.AssemblyInfoInputs.cache
+c:\Users\henrique.evangelista\Documents\Henrique\projetos\AED\competicao\obj\Debug\net8.0\competicao.AssemblyInfo.cs
+c:\Users\henrique.evangelista\Documents\Henrique\projetos\AED\competicao\obj\Debug\net8.0\competicao.csproj.CoreCompileInputs.cache
+c:\Users\henrique.evangelista\Documents\Henrique\projetos\AED\competicao\obj\Debug\net8.0\competicao.sourcelink.json
+c:\Users\henrique.evangelista\Documents\Henrique\projetos\AED\competicao\obj\Debug\net8.0\competicao.dll
+c:\Users\henrique.evangelista\Documents\Henrique\projetos\AED\competicao\obj\Debug\net8.0\refint\competicao.dll
+c:\Users\henrique.evangelista\Documents\Henrique\projetos\AED\competicao\obj\Debug\net8.0\competicao.pdb
+c:\Users\henrique.evangelista\Documents\Henrique\projetos\AED\competicao\obj\Debug\net8.0\competicao.genruntimeconfig.cache
+c:\Users\henrique.evangelista\Documents\Henrique\projetos\AED\competicao\obj\Debug\net8.0\ref\competicao.dll

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "competicao", "competicao.csproj", "{FECA28D5-BDA4-4FAA-8BB9-D5E54DE1AFB8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "libertadores", "libertadores\libertadores.csproj", "{C6D6731C-A7AF-4EC6-B004-FAA1D9AB3799}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FECA28D5-BDA4-4FAA-8BB9-D5E54DE1AFB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FECA28D5-BDA4-4FAA-8BB9-D5E54DE1AFB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FECA28D5-BDA4-4FAA-8BB9-D5E54DE1AFB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FECA28D5-BDA4-4FAA-8BB9-D5E54DE1AFB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6D6731C-A7AF-4EC6-B004-FAA1D9AB3799}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6D6731C-A7AF-4EC6-B004-FAA1D9AB3799}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6D6731C-A7AF-4EC6-B004-FAA1D9AB3799}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6D6731C-A7AF-4EC6-B004-FAA1D9AB3799}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A56480E2-771C-413B-9CD8-071646F86730}
+	EndGlobalSection
+EndGlobal

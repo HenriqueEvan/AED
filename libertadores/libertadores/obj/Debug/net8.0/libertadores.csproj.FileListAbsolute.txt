@@ -1,0 +1,15 @@
+c:\Users\henrique.evangelista\Documents\Henrique\projetos\AED\libertadores\libertadores\bin\Debug\net8.0\libertadores.exe
+c:\Users\henrique.evangelista\Documents\Henrique\projetos\AED\libertadores\libertadores\bin\Debug\net8.0\libertadores.deps.json
+c:\Users\henrique.evangelista\Documents\Henrique\projetos\AED\libertadores\libertadores\bin\Debug\net8.0\libertadores.runtimeconfig.json
+c:\Users\henrique.evangelista\Documents\Henrique\projetos\AED\libertadores\libertadores\bin\Debug\net8.0\libertadores.dll
+c:\Users\henrique.evangelista\Documents\Henrique\projetos\AED\libertadores\libertadores\bin\Debug\net8.0\libertadores.pdb
+c:\Users\henrique.evangelista\Documents\Henrique\projetos\AED\libertadores\libertadores\obj\Debug\net8.0\libertadores.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\henrique.evangelista\Documents\Henrique\projetos\AED\libertadores\libertadores\obj\Debug\net8.0\libertadores.AssemblyInfoInputs.cache
+c:\Users\henrique.evangelista\Documents\Henrique\projetos\AED\libertadores\libertadores\obj\Debug\net8.0\libertadores.AssemblyInfo.cs
+c:\Users\henrique.evangelista\Documents\Henrique\projetos\AED\libertadores\libertadores\obj\Debug\net8.0\libertadores.csproj.CoreCompileInputs.cache
+c:\Users\henrique.evangelista\Documents\Henrique\projetos\AED\libertadores\libertadores\obj\Debug\net8.0\libertadores.sourcelink.json
+c:\Users\henrique.evangelista\Documents\Henrique\projetos\AED\libertadores\libertadores\obj\Debug\net8.0\libertadores.dll
+c:\Users\henrique.evangelista\Documents\Henrique\projetos\AED\libertadores\libertadores\obj\Debug\net8.0\refint\libertadores.dll
+c:\Users\henrique.evangelista\Documents\Henrique\projetos\AED\libertadores\libertadores\obj\Debug\net8.0\libertadores.pdb
+c:\Users\henrique.evangelista\Documents\Henrique\projetos\AED\libertadores\libertadores\obj\Debug\net8.0\libertadores.genruntimeconfig.cache
+c:\Users\henrique.evangelista\Documents\Henrique\projetos\AED\libertadores\libertadores\obj\Debug\net8.0\ref\libertadores.dll
