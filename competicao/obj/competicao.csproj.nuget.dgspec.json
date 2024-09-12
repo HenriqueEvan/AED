@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\henrique.evangelista\\Documents\\Henrique\\projetos\\AED\\competicao\\competicao.csproj": {}
+    "c:\\Users\\henrique.evangelista\\Documents\\Henrique\\projetos\\AED\\competicao\\competicao.csproj": {}
   },
   "projects": {
-    "C:\\Users\\henrique.evangelista\\Documents\\Henrique\\projetos\\AED\\competicao\\competicao.csproj": {
+    "c:\\Users\\henrique.evangelista\\Documents\\Henrique\\projetos\\AED\\competicao\\competicao.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\henrique.evangelista\\Documents\\Henrique\\projetos\\AED\\competicao\\competicao.csproj",
+        "projectUniqueName": "c:\\Users\\henrique.evangelista\\Documents\\Henrique\\projetos\\AED\\competicao\\competicao.csproj",
         "projectName": "competicao",
-        "projectPath": "C:\\Users\\henrique.evangelista\\Documents\\Henrique\\projetos\\AED\\competicao\\competicao.csproj",
+        "projectPath": "c:\\Users\\henrique.evangelista\\Documents\\Henrique\\projetos\\AED\\competicao\\competicao.csproj",
         "packagesPath": "C:\\Users\\henrique.evangelista\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\henrique.evangelista\\Documents\\Henrique\\projetos\\AED\\competicao\\obj\\",
+        "outputPath": "c:\\Users\\henrique.evangelista\\Documents\\Henrique\\projetos\\AED\\competicao\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\henrique.evangelista\\AppData\\Roaming\\NuGet\\NuGet.Config"

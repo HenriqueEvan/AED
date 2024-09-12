@@ -4,7 +4,7 @@ class Program
     public static void Main(string[] args)
     {
         //declaração das váriaveis 
-        int n = 0, m = 0 , resultado = 0, diagP = 0, diagS = 0;
+        int n = 0, m = 0 , resultado1 = 0, resultado2 = 0, resultado3 = 0, resultado4 = 0;;
         // estrutura de repetição
         do
         {
@@ -36,25 +36,32 @@ class Program
                     for (int j = 0; j < mat.GetLength(1); j++)
                     {
 
-                        //somar diagonais para saber se todos os casos foram resolvidos
-                        diagP += mat[i,i];
-                        diagS += mat[i, mat.GetLength(1) -1 -i];
+                        //resultado 2 verificação
+                        if (mat[j,i] == 1 && mat[i,j] == 1)
+                        {
+                            resultado2 += mat[i,j];
+                            
+                        }
+                        if (mat[j,i] == 1 && mat[i,j] == 0)
+                        {
+                            resultado4 = mat[j,i];
+                        }
                         //opção 1 e 2 do caso de teste
-                        resultado += mat[i,j];
+                        resultado1 += mat[i,j];
 
                     }
                 }
                         //saída dos dados
                         //verificação dos casos
-                        if (resultado == 0)
+                        if (resultado1 == 0)
                         {
                             Console.WriteLine(1);
                         }
-                        else if (resultado != 0)
+                        else if (resultado2 <= 3)
                         {
                             Console.WriteLine(2);
                         }
-                        else if (diagP == 1 * mat.GetLength(1) && diagS == 1 * mat.GetLength(1))
+                        else if (resultado4 >= 3)
                         {
                             Console.WriteLine(4);
                         }
