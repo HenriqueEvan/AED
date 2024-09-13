@@ -1,0 +1,15 @@
+c:\Users\henrique.evangelista\Documents\Henrique\projetos\AED\tornado\bin\Debug\net8.0\tornado.exe
+c:\Users\henrique.evangelista\Documents\Henrique\projetos\AED\tornado\bin\Debug\net8.0\tornado.deps.json
+c:\Users\henrique.evangelista\Documents\Henrique\projetos\AED\tornado\bin\Debug\net8.0\tornado.runtimeconfig.json
+c:\Users\henrique.evangelista\Documents\Henrique\projetos\AED\tornado\bin\Debug\net8.0\tornado.dll
+c:\Users\henrique.evangelista\Documents\Henrique\projetos\AED\tornado\bin\Debug\net8.0\tornado.pdb
+c:\Users\henrique.evangelista\Documents\Henrique\projetos\AED\tornado\obj\Debug\net8.0\tornado.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\henrique.evangelista\Documents\Henrique\projetos\AED\tornado\obj\Debug\net8.0\tornado.AssemblyInfoInputs.cache
+c:\Users\henrique.evangelista\Documents\Henrique\projetos\AED\tornado\obj\Debug\net8.0\tornado.AssemblyInfo.cs
+c:\Users\henrique.evangelista\Documents\Henrique\projetos\AED\tornado\obj\Debug\net8.0\tornado.csproj.CoreCompileInputs.cache
+c:\Users\henrique.evangelista\Documents\Henrique\projetos\AED\tornado\obj\Debug\net8.0\tornado.sourcelink.json
+c:\Users\henrique.evangelista\Documents\Henrique\projetos\AED\tornado\obj\Debug\net8.0\tornado.dll
+c:\Users\henrique.evangelista\Documents\Henrique\projetos\AED\tornado\obj\Debug\net8.0\refint\tornado.dll
+c:\Users\henrique.evangelista\Documents\Henrique\projetos\AED\tornado\obj\Debug\net8.0\tornado.pdb
+c:\Users\henrique.evangelista\Documents\Henrique\projetos\AED\tornado\obj\Debug\net8.0\tornado.genruntimeconfig.cache
+c:\Users\henrique.evangelista\Documents\Henrique\projetos\AED\tornado\obj\Debug\net8.0\ref\tornado.dll

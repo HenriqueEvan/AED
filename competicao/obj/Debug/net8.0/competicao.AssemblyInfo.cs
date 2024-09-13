@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("competicao")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+925231ae5f04f526c9fc18f93135c8fd1cd3781e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+94b26c6764fb615635cc53bdb02fc587f629f9dd")]
 [assembly: System.Reflection.AssemblyProductAttribute("competicao")]
 [assembly: System.Reflection.AssemblyTitleAttribute("competicao")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
