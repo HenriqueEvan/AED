@@ -1,10 +1,12 @@
 ﻿using System;
+using System.Dynamic;
 class Program
 {
     public static void Main(string[] args)
     {
         //declaração das váriaveis 
-        int n = 0, m = 0 , resultado1 = 0, resultado2 = 0, resultado3 = 0, resultado4 = 0;;
+        int n = 0, m = 0, totalResultados = 0;
+        
         // estrutura de repetição
         do
         {
@@ -29,46 +31,85 @@ class Program
                     mat[i, j] = int.Parse(valores[j]);
                     }
                 }
+                //variáveis de casos
+                bool resultado1 = true, resultado2 = true, resultado3 = true, resultado4 = true ;
                 
-                //percorrer matriz para verificar
+                //verifica resultado 1 e 4
                 for (int i = 0; i < mat.GetLength(0); i++)
                 {
+                    bool todos = true;
+                    bool nenhum = true;
                     for (int j = 0; j < mat.GetLength(1); j++)
                     {
 
-                        //resultado 2 verificação
-                        if (mat[j,i] == 1 && mat[i,j] == 1)
+                        if (mat[i,j] == 1)
                         {
-                            resultado2 += mat[i,j];
-                            
-                        }
-                        if (mat[j,i] == 1 && mat[i,j] == 0)
-                        {
-                            resultado4 = mat[j,i];
-                        }
-                        //opção 1 e 2 do caso de teste
-                        resultado1 += mat[i,j];
-
-                    }
-                }
-                        //saída dos dados
-                        //verificação dos casos
-                        if (resultado1 == 0)
-                        {
-                            Console.WriteLine(1);
-                        }
-                        else if (resultado2 <= 3)
-                        {
-                            Console.WriteLine(2);
-                        }
-                        else if (resultado4 >= 3)
-                        {
-                            Console.WriteLine(4);
+                            nenhum = false;
                         }
                         else
                         {
-                            Console.WriteLine(3);
+                            todos = false;
                         }
+                    }
+
+                    if (todos)
+                    {
+                        resultado1 = false;
+                    }
+                    if (nenhum)
+                    {
+                        resultado4 = false;
+                    }
+                }
+
+                //resultado 2 e 3
+                for (int i = 0; i < mat.GetLength(1); i++)
+                {
+                    bool alguem = false;
+                    bool porTodos = true;
+                    for (int j = 0; j < mat.GetLength(0); j++)
+                    {
+
+                        if (mat[j,i] == 1)
+                        {
+                            alguem = true;
+                        }
+                        else
+                        {
+                            porTodos = false;
+                        }
+                    }
+
+                    if (!alguem)
+                    {
+                        resultado2 = false;
+                    }
+                    if (porTodos)
+                    {
+                        resultado3 = false;
+                    }
+                }
+
+                    //verificação dos casos
+                     if (resultado1)
+                     {
+                        totalResultados++;
+                     }  
+                     if (resultado2)
+                     {
+                        totalResultados++;
+                     }  
+                     if (resultado3)
+                     {
+                        totalResultados++;
+                     }  
+                     if (resultado4)
+                     {
+                        totalResultados++;
+                     }  
+                    //saída dos dados
+                    Console.WriteLine(totalResultados);
+                    totalResultados = 0;
             }
         } while (n != 0 && m != 0 );
 

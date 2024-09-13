@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "competicao", "competicao.cs
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "libertadores", "libertadores\libertadores.csproj", "{C6D6731C-A7AF-4EC6-B004-FAA1D9AB3799}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tornado", "..\tornado\tornado.csproj", "{C55E9618-CCEF-4A74-9A08-C7D2CB22ADC7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{C6D6731C-A7AF-4EC6-B004-FAA1D9AB3799}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C6D6731C-A7AF-4EC6-B004-FAA1D9AB3799}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C6D6731C-A7AF-4EC6-B004-FAA1D9AB3799}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C55E9618-CCEF-4A74-9A08-C7D2CB22ADC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C55E9618-CCEF-4A74-9A08-C7D2CB22ADC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C55E9618-CCEF-4A74-9A08-C7D2CB22ADC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C55E9618-CCEF-4A74-9A08-C7D2CB22ADC7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
