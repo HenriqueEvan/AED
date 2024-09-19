@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("tornado")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("quadro de medalhas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+806c7ec12605102984b446e1bbb52394ec3de299")]
-[assembly: System.Reflection.AssemblyProductAttribute("tornado")]
-[assembly: System.Reflection.AssemblyTitleAttribute("tornado")]
+[assembly: System.Reflection.AssemblyProductAttribute("quadro de medalhas")]
+[assembly: System.Reflection.AssemblyTitleAttribute("quadro de medalhas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

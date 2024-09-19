@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\henrique.evangelista\\Documents\\Henrique\\projetos\\AED\\tornado\\tornado.csproj": {}
+    "c:\\Users\\henrique.evangelista\\Documents\\Henrique\\projetos\\AED\\lista papai noel\\lista papai noel\\lista papai noel.csproj": {}
   },
   "projects": {
-    "C:\\Users\\henrique.evangelista\\Documents\\Henrique\\projetos\\AED\\tornado\\tornado.csproj": {
+    "c:\\Users\\henrique.evangelista\\Documents\\Henrique\\projetos\\AED\\lista papai noel\\lista papai noel\\lista papai noel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\henrique.evangelista\\Documents\\Henrique\\projetos\\AED\\tornado\\tornado.csproj",
-        "projectName": "tornado",
-        "projectPath": "C:\\Users\\henrique.evangelista\\Documents\\Henrique\\projetos\\AED\\tornado\\tornado.csproj",
+        "projectUniqueName": "c:\\Users\\henrique.evangelista\\Documents\\Henrique\\projetos\\AED\\lista papai noel\\lista papai noel\\lista papai noel.csproj",
+        "projectName": "lista papai noel",
+        "projectPath": "c:\\Users\\henrique.evangelista\\Documents\\Henrique\\projetos\\AED\\lista papai noel\\lista papai noel\\lista papai noel.csproj",
         "packagesPath": "C:\\Users\\henrique.evangelista\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\henrique.evangelista\\Documents\\Henrique\\projetos\\AED\\tornado\\obj\\",
+        "outputPath": "c:\\Users\\henrique.evangelista\\Documents\\Henrique\\projetos\\AED\\lista papai noel\\lista papai noel\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\henrique.evangelista\\AppData\\Roaming\\NuGet\\NuGet.Config"

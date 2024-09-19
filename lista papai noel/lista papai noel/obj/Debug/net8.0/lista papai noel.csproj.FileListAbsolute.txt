@@ -1,0 +1,15 @@
+c:\Users\henrique.evangelista\Documents\Henrique\projetos\AED\lista papai noel\lista papai noel\bin\Debug\net8.0\lista papai noel.exe
+c:\Users\henrique.evangelista\Documents\Henrique\projetos\AED\lista papai noel\lista papai noel\bin\Debug\net8.0\lista papai noel.deps.json
+c:\Users\henrique.evangelista\Documents\Henrique\projetos\AED\lista papai noel\lista papai noel\bin\Debug\net8.0\lista papai noel.runtimeconfig.json
+c:\Users\henrique.evangelista\Documents\Henrique\projetos\AED\lista papai noel\lista papai noel\bin\Debug\net8.0\lista papai noel.dll
+c:\Users\henrique.evangelista\Documents\Henrique\projetos\AED\lista papai noel\lista papai noel\bin\Debug\net8.0\lista papai noel.pdb
+c:\Users\henrique.evangelista\Documents\Henrique\projetos\AED\lista papai noel\lista papai noel\obj\Debug\net8.0\lista papai noel.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\henrique.evangelista\Documents\Henrique\projetos\AED\lista papai noel\lista papai noel\obj\Debug\net8.0\lista papai noel.AssemblyInfoInputs.cache
+c:\Users\henrique.evangelista\Documents\Henrique\projetos\AED\lista papai noel\lista papai noel\obj\Debug\net8.0\lista papai noel.AssemblyInfo.cs
+c:\Users\henrique.evangelista\Documents\Henrique\projetos\AED\lista papai noel\lista papai noel\obj\Debug\net8.0\lista papai noel.csproj.CoreCompileInputs.cache
+c:\Users\henrique.evangelista\Documents\Henrique\projetos\AED\lista papai noel\lista papai noel\obj\Debug\net8.0\lista papai noel.sourcelink.json
+c:\Users\henrique.evangelista\Documents\Henrique\projetos\AED\lista papai noel\lista papai noel\obj\Debug\net8.0\lista papai noel.dll
+c:\Users\henrique.evangelista\Documents\Henrique\projetos\AED\lista papai noel\lista papai noel\obj\Debug\net8.0\refint\lista papai noel.dll
+c:\Users\henrique.evangelista\Documents\Henrique\projetos\AED\lista papai noel\lista papai noel\obj\Debug\net8.0\lista papai noel.pdb
+c:\Users\henrique.evangelista\Documents\Henrique\projetos\AED\lista papai noel\lista papai noel\obj\Debug\net8.0\lista papai noel.genruntimeconfig.cache
+c:\Users\henrique.evangelista\Documents\Henrique\projetos\AED\lista papai noel\lista papai noel\obj\Debug\net8.0\ref\lista papai noel.dll

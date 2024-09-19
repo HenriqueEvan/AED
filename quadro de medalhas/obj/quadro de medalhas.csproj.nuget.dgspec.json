@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\henrique.evangelista\\Documents\\Henrique\\projetos\\AED\\tornado\\tornado.csproj": {}
+    "C:\\Users\\henrique.evangelista\\Documents\\Henrique\\projetos\\AED\\quadro de medalhas\\quadro de medalhas.csproj": {}
   },
   "projects": {
-    "C:\\Users\\henrique.evangelista\\Documents\\Henrique\\projetos\\AED\\tornado\\tornado.csproj": {
+    "C:\\Users\\henrique.evangelista\\Documents\\Henrique\\projetos\\AED\\quadro de medalhas\\quadro de medalhas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\henrique.evangelista\\Documents\\Henrique\\projetos\\AED\\tornado\\tornado.csproj",
-        "projectName": "tornado",
-        "projectPath": "C:\\Users\\henrique.evangelista\\Documents\\Henrique\\projetos\\AED\\tornado\\tornado.csproj",
+        "projectUniqueName": "C:\\Users\\henrique.evangelista\\Documents\\Henrique\\projetos\\AED\\quadro de medalhas\\quadro de medalhas.csproj",
+        "projectName": "quadro de medalhas",
+        "projectPath": "C:\\Users\\henrique.evangelista\\Documents\\Henrique\\projetos\\AED\\quadro de medalhas\\quadro de medalhas.csproj",
         "packagesPath": "C:\\Users\\henrique.evangelista\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\henrique.evangelista\\Documents\\Henrique\\projetos\\AED\\tornado\\obj\\",
+        "outputPath": "C:\\Users\\henrique.evangelista\\Documents\\Henrique\\projetos\\AED\\quadro de medalhas\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\henrique.evangelista\\AppData\\Roaming\\NuGet\\NuGet.Config"
