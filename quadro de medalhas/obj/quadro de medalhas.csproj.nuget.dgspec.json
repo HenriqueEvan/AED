@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\henrique.evangelista\\Documents\\Henrique\\projetos\\AED\\quadro de medalhas\\quadro de medalhas.csproj": {}
+    "c:\\Users\\henrique.evangelista\\Documents\\Henrique\\projetos\\AED\\quadro de medalhas\\quadro de medalhas.csproj": {}
   },
   "projects": {
-    "C:\\Users\\henrique.evangelista\\Documents\\Henrique\\projetos\\AED\\quadro de medalhas\\quadro de medalhas.csproj": {
+    "c:\\Users\\henrique.evangelista\\Documents\\Henrique\\projetos\\AED\\quadro de medalhas\\quadro de medalhas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\henrique.evangelista\\Documents\\Henrique\\projetos\\AED\\quadro de medalhas\\quadro de medalhas.csproj",
+        "projectUniqueName": "c:\\Users\\henrique.evangelista\\Documents\\Henrique\\projetos\\AED\\quadro de medalhas\\quadro de medalhas.csproj",
         "projectName": "quadro de medalhas",
-        "projectPath": "C:\\Users\\henrique.evangelista\\Documents\\Henrique\\projetos\\AED\\quadro de medalhas\\quadro de medalhas.csproj",
+        "projectPath": "c:\\Users\\henrique.evangelista\\Documents\\Henrique\\projetos\\AED\\quadro de medalhas\\quadro de medalhas.csproj",
         "packagesPath": "C:\\Users\\henrique.evangelista\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\henrique.evangelista\\Documents\\Henrique\\projetos\\AED\\quadro de medalhas\\obj\\",
+        "outputPath": "c:\\Users\\henrique.evangelista\\Documents\\Henrique\\projetos\\AED\\quadro de medalhas\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\henrique.evangelista\\AppData\\Roaming\\NuGet\\NuGet.Config"

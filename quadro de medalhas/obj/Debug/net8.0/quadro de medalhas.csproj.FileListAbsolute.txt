@@ -1,0 +1,15 @@
+c:\Users\henrique.evangelista\Documents\Henrique\projetos\AED\quadro de medalhas\bin\Debug\net8.0\quadro de medalhas.exe
+c:\Users\henrique.evangelista\Documents\Henrique\projetos\AED\quadro de medalhas\bin\Debug\net8.0\quadro de medalhas.deps.json
+c:\Users\henrique.evangelista\Documents\Henrique\projetos\AED\quadro de medalhas\bin\Debug\net8.0\quadro de medalhas.runtimeconfig.json
+c:\Users\henrique.evangelista\Documents\Henrique\projetos\AED\quadro de medalhas\bin\Debug\net8.0\quadro de medalhas.dll
+c:\Users\henrique.evangelista\Documents\Henrique\projetos\AED\quadro de medalhas\bin\Debug\net8.0\quadro de medalhas.pdb
+c:\Users\henrique.evangelista\Documents\Henrique\projetos\AED\quadro de medalhas\obj\Debug\net8.0\quadro de medalhas.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\henrique.evangelista\Documents\Henrique\projetos\AED\quadro de medalhas\obj\Debug\net8.0\quadro de medalhas.AssemblyInfoInputs.cache
+c:\Users\henrique.evangelista\Documents\Henrique\projetos\AED\quadro de medalhas\obj\Debug\net8.0\quadro de medalhas.AssemblyInfo.cs
+c:\Users\henrique.evangelista\Documents\Henrique\projetos\AED\quadro de medalhas\obj\Debug\net8.0\quadro de medalhas.csproj.CoreCompileInputs.cache
+c:\Users\henrique.evangelista\Documents\Henrique\projetos\AED\quadro de medalhas\obj\Debug\net8.0\quadro de medalhas.sourcelink.json
+c:\Users\henrique.evangelista\Documents\Henrique\projetos\AED\quadro de medalhas\obj\Debug\net8.0\quadro de medalhas.dll
+c:\Users\henrique.evangelista\Documents\Henrique\projetos\AED\quadro de medalhas\obj\Debug\net8.0\refint\quadro de medalhas.dll
+c:\Users\henrique.evangelista\Documents\Henrique\projetos\AED\quadro de medalhas\obj\Debug\net8.0\quadro de medalhas.pdb
+c:\Users\henrique.evangelista\Documents\Henrique\projetos\AED\quadro de medalhas\obj\Debug\net8.0\quadro de medalhas.genruntimeconfig.cache
+c:\Users\henrique.evangelista\Documents\Henrique\projetos\AED\quadro de medalhas\obj\Debug\net8.0\ref\quadro de medalhas.dll

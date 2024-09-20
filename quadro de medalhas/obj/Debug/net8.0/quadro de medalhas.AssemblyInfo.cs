@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("quadro de medalhas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+806c7ec12605102984b446e1bbb52394ec3de299")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+87cc18f274a4831acae0b0c6f09099bdf4377933")]
 [assembly: System.Reflection.AssemblyProductAttribute("quadro de medalhas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("quadro de medalhas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -12,7 +12,7 @@ class Program
             for (int i = 0; i < n; i++)
             {
             string sinal = "";
-            string[] valores = Console.ReadLine().Split(' ');
+            string[] valores = Console.ReadLine().Split(" ");
             sinal = valores[0];
             nomes[i] = valores[1];
             //comparação para saber quantos se comportaram ou não
