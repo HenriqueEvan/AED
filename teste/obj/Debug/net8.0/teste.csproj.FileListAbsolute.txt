@@ -1,0 +1,15 @@
+c:\Users\henrique.evangelista\Documents\Henrique\projetos\AED\teste\bin\Debug\net8.0\teste.exe
+c:\Users\henrique.evangelista\Documents\Henrique\projetos\AED\teste\bin\Debug\net8.0\teste.deps.json
+c:\Users\henrique.evangelista\Documents\Henrique\projetos\AED\teste\bin\Debug\net8.0\teste.runtimeconfig.json
+c:\Users\henrique.evangelista\Documents\Henrique\projetos\AED\teste\bin\Debug\net8.0\teste.dll
+c:\Users\henrique.evangelista\Documents\Henrique\projetos\AED\teste\bin\Debug\net8.0\teste.pdb
+c:\Users\henrique.evangelista\Documents\Henrique\projetos\AED\teste\obj\Debug\net8.0\teste.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\henrique.evangelista\Documents\Henrique\projetos\AED\teste\obj\Debug\net8.0\teste.AssemblyInfoInputs.cache
+c:\Users\henrique.evangelista\Documents\Henrique\projetos\AED\teste\obj\Debug\net8.0\teste.AssemblyInfo.cs
+c:\Users\henrique.evangelista\Documents\Henrique\projetos\AED\teste\obj\Debug\net8.0\teste.csproj.CoreCompileInputs.cache
+c:\Users\henrique.evangelista\Documents\Henrique\projetos\AED\teste\obj\Debug\net8.0\teste.sourcelink.json
+c:\Users\henrique.evangelista\Documents\Henrique\projetos\AED\teste\obj\Debug\net8.0\teste.dll
+c:\Users\henrique.evangelista\Documents\Henrique\projetos\AED\teste\obj\Debug\net8.0\refint\teste.dll
+c:\Users\henrique.evangelista\Documents\Henrique\projetos\AED\teste\obj\Debug\net8.0\teste.pdb
+c:\Users\henrique.evangelista\Documents\Henrique\projetos\AED\teste\obj\Debug\net8.0\teste.genruntimeconfig.cache
+c:\Users\henrique.evangelista\Documents\Henrique\projetos\AED\teste\obj\Debug\net8.0\ref\teste.dll

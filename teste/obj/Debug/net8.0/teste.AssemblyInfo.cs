@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("quadro de medalhas")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("teste")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8ccc38eaeb0b986587198d6436dddf5438af5607")]
-[assembly: System.Reflection.AssemblyProductAttribute("quadro de medalhas")]
-[assembly: System.Reflection.AssemblyTitleAttribute("quadro de medalhas")]
+[assembly: System.Reflection.AssemblyProductAttribute("teste")]
+[assembly: System.Reflection.AssemblyTitleAttribute("teste")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
